@@ -98,10 +98,6 @@ public class Game {
 		this.score = score;
 	}
 
-	public void setPlatform(String platform) {
-		this.platform = platform;
-	}
-
 	public String getImgUrl() {
 		return imgUrl;
 	}
